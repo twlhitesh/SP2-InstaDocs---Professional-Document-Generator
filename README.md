@@ -1,11 +1,11 @@
-# DocuCraft - Professional Document Generator
+# Instadocs - Professional Document Generator
 
 <div align="center">
   <img src="https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop" alt="DocuCraft Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px;">
   
   <h3>Transform your ideas into polished, professional documents in seconds</h3>
   
-  [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://your-demo-link.com)
+  [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://sp-2-insta-docs-professional-docume.vercel.app/)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
   [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -14,7 +14,7 @@
 
 ## 🌟 Overview
 
-DocuCraft is a privacy-first, professional document generator that helps users create polished documents instantly. Whether you need a resignation letter, cover letter, internship request, or startup pitch, DocuCraft provides expertly crafted templates that transform your personal information into professional documents within seconds.
+InstaDocs is a privacy-first, professional document generator that helps users create polished documents instantly. Whether you need a resignation letter, cover letter, internship request, or startup pitch, Instadocs provides expertly crafted templates that transform your personal information into professional documents within seconds.
 
 ### ✨ Key Features
 
@@ -45,8 +45,8 @@ DocuCraft is a privacy-first, professional document generator that helps users c
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/docucraft.git
-   cd docucraft
+   git clone https://github.com/yourusername/Instadocs.git
+   cd Instadocs
    ```
 
 2. **Install dependencies**
@@ -73,7 +73,7 @@ npm run preview
 
 ## 🏗️ Architecture
 
-DocuCraft is built with a modern, component-based architecture:
+Instadocs is built with a modern, component-based architecture:
 
 ```
 src/
@@ -106,7 +106,7 @@ src/
 
 ## 📝 Template System
 
-DocuCraft uses a powerful template engine that supports:
+Instadocs uses a powerful template engine that supports:
 
 ### Variable Substitution
 ```handlebars
@@ -153,7 +153,7 @@ The reason for my departure is: {{reason}}
 
 ## 🎨 Design System
 
-DocuCraft follows a consistent design system:
+Instadocs follows a consistent design system:
 
 ### Colors
 - **Primary**: Blue gradient (`from-blue-600 to-purple-600`)
@@ -233,9 +233,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/docucraft/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/docucraft/discussions)
-- **Email**: support@docucraft.com
+- **Issues**: [GitHub Issues](https://github.com/yourusername/Instadocs/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/Instadocs/discussions)
+- **Email**: support@Instadocs.com
 
 ---
 
